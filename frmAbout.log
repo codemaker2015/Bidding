@@ -1,0 +1,5 @@
+Line 10: Property Icon in frmAbout had an invalid file reference.
+Line 14: Property Picture in frmAbout had an invalid file reference.
+Line 25: Property Picture in picIcon had an invalid file reference.
+Line 62: Property Caption in lblDescription must be a quoted string
+Line 110: Property Caption in lblDisclaimer must be a quoted string

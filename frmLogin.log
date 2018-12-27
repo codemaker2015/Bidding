@@ -1,0 +1,13 @@
+Line 10: Property Icon in frmLogin had an invalid file reference.
+Line 13: Property MouseIcon in frmLogin had an invalid file reference.
+Line 21: Property ItemData in cmbAcType had an invalid file reference.
+Line 23: Property List in cmbAcType had an invalid file reference.
+Line 66: Property ItemData in UserNameCmb had an invalid file reference.
+Line 68: Property List in UserNameCmb had an invalid file reference.
+Line 146: Property Picture in imgHint had an invalid file reference.
+Line 153: Property Picture in errorimg had an invalid file reference.
+Line 161: Property Picture in fieldblank had an invalid file reference.
+Line 209: Property MouseIcon in imgCancel had an invalid file reference.
+Line 211: Property Picture in imgCancel had an invalid file reference.
+Line 219: Property MouseIcon in imgOK had an invalid file reference.
+Line 221: Property Picture in imgOK had an invalid file reference.
